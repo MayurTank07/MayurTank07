@@ -8,7 +8,7 @@
 📊 Currently working at [Squad Infotech PVT LTD](https://squadinfotech.in/), Mumbai, India. </br>
 💹 Also, a Digital Marketer.
 
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurTank07&show_icons=true&theme=radical)
+<!--![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurTank07&show_icons=true&theme=radical) -->
 
 
 ## 🌐 Socials:
