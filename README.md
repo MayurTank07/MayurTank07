@@ -1,76 +1,57 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mayur Tank — Developer, Educator and Founder. Building software. Sharing what I learn." />
+  <img src="./assets/hero.svg" width="100%" alt="Mayur Tank — Founder, Developer and Educator. Engineering ideas into digital experiences." />
 </p>
 
 <p align="center">
-  <a href="https://www.starxinnovations.in/"><b>StarX Innovations ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mayurtank07/"><b>LinkedIn ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://instagram.com/_i_am_mayur_tank_"><b>Instagram ↗</b></a>
+  <a href="https://www.starxinnovations.in/"><b>STARX ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mayurtank07/"><b>LINKEDIN ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://instagram.com/_i_am_mayur_tank_"><b>INSTAGRAM ↗</b></a>
 </p>
 
 <br>
 
-### A little about me
+### The person behind the code
 
-I'm **Mayur**, a developer and educator based in Mumbai, and the founder of **[StarX Innovations and IT Solutions](https://www.starxinnovations.in/)**. I build web projects, explore programming through hands-on applications, and share what I learn through code and tutorials.
+**I'm Mayur Tank — Founder & CEO of StarX Innovations and IT Solutions, software developer, and technical educator based in Mumbai.**
 
-My work brings together **software development, technical education, and digital marketing**.
+My work sits at the intersection of **technology, business, and education**. I translate ideas into software and web experiences, bring a business perspective to development, and help learners connect programming concepts with practical implementation.
 
-<br>
+Through **StarX**, I bring together software development and digital marketing with a clear focus: creating a purposeful digital presence. As an educator, I make technical concepts approachable through hands-on examples and project-based learning.
 
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / Inventory Management</h3>
-<p>A Java console application for managing products, categories, suppliers, and stock.</p>
-<p><code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
-<a href="https://github.com/MayurTank07/Inventory-Management-System-Using-Java"><b>Explore the project ↗</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / Python Notepad</h3>
-<p>A desktop text editor with additional applications accessible through its menu.</p>
-<p><code>Python</code> <code>Tkinter</code></p>
-<a href="https://github.com/MayurTank07/Python-Notepad-with-Additional-Applications"><b>Explore the project ↗</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / Slideify</h3>
-<p>A sign-up and sign-in interface built around an interactive sliding experience.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-<a href="https://github.com/MayurTank07/Slideify-Unique-Sign-Up-and-Sign-In-Page"><b>Explore the project ↗</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Learn with me</h3>
-<p>Programming examples and tutorials from my teaching and learning journey.</p>
-<p><code>Python</code> <code>React</code> <code>CSS</code></p>
-<a href="https://github.com/MayurTank07/python-tutorial"><b>Python ↗</b></a> &nbsp; · &nbsp;
-<a href="https://github.com/MayurTank07/ReactJS-tutorial"><b>React ↗</b></a> &nbsp; · &nbsp;
-<a href="https://github.com/MayurTank07/CSS-CODES"><b>CSS ↗</b></a>
-</td>
-</tr>
-</table>
+**My approach: understand the problem, build with intent, and communicate with clarity.**
 
 <br>
 
-### My toolkit
+<img src="./assets/focus.svg" width="100%" alt="Build: software and web experiences. Teach: practical technical education. Grow: digital strategy and brand presence." />
 
-| Area | Technologies |
-| :--- | :--- |
-| **Web interfaces** | JavaScript · React · Angular · HTML · CSS · Bootstrap |
-| **Applications & backend** | Java · Python · PHP · Django |
-| **Data** | MySQL · Microsoft SQL Server · JDBC · Hibernate |
-| **Also explored** | C · C++ · C# · Canva |
+<br>
+
+### Technology I work with
+
+**WEB & INTERFACES**<br>
+`JavaScript` &nbsp; `React` &nbsp; `Angular` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Bootstrap`
+
+**APPLICATIONS & BACKEND**<br>
+`Java` &nbsp; `Python` &nbsp; `PHP` &nbsp; `Django`
+
+**DATABASES & PERSISTENCE**<br>
+`MySQL` &nbsp; `SQL Server` &nbsp; `JDBC` &nbsp; `Hibernate`
+
+<details>
+<summary>More from my toolkit</summary>
+<br>
+
+`C` &nbsp; `C++` &nbsp; `C#` &nbsp; `Canva`
+
+</details>
 
 <br>
 
 ---
 
 <p align="center">
-  <b>Have an idea worth building?</b><br>
-  Let's talk software, learning, or your next digital project.<br><br>
-  <a href="https://www.linkedin.com/in/mayurtank07/">Connect on LinkedIn ↗</a> &nbsp; · &nbsp;
-  <a href="https://www.starxinnovations.in/">Discover StarX ↗</a>
+  <b>Good ideas deserve thoughtful execution.</b><br><br>
+  For conversations around software, technical education, and digital business.<br><br>
+  <a href="https://www.linkedin.com/in/mayurtank07/"><b>Let's connect ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://www.starxinnovations.in/"><b>Explore StarX ↗</b></a>
 </p>

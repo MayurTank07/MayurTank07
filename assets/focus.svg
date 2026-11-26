@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Build: software and web experiences. Teach: practical technical education. Grow: digital strategy and brand presence.">
+<rect width="1200" height="190" rx="18" fill="#101527"/>
+<g stroke="#a995ff" stroke-opacity=".2"><path d="M400 35v120M800 35v120"/></g>
+<g font-family="Arial,sans-serif">
+<g fill="#a995ff" font-size="13" letter-spacing="3"><text x="34" y="43">01 / ENGINEERING</text><text x="434" y="43">02 / EDUCATION</text><text x="834" y="43">03 / DIGITAL STRATEGY</text></g>
+<g fill="#f1effb" font-size="34" font-weight="700"><text x="34" y="94">Build.</text><text x="434" y="94">Teach.</text><text x="834" y="94">Grow.</text></g>
+<g fill="#adb9d0" font-size="16"><text x="34" y="133">Software &amp; web experiences</text><text x="434" y="133">Practical technical education</text><text x="834" y="133">Digital strategy &amp; brand presence</text></g>
+</g>
+<rect x="34" y="159" width="42" height="3" rx="1.5" fill="#8cdef2"><animate attributeName="width" values="42;110;42" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="434" y="159" width="42" height="3" rx="1.5" fill="#a995ff"><animate attributeName="width" values="42;110;42" dur="4s" begin=".7s" repeatCount="indefinite"/></rect>
+<rect x="834" y="159" width="42" height="3" rx="1.5" fill="#8cdef2"><animate attributeName="width" values="42;110;42" dur="4s" begin="1.4s" repeatCount="indefinite"/></rect>
+</svg>

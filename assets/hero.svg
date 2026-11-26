@@ -1,14 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Mayur Tank — Building software. Sharing what I learn.">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b23"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="line"><stop stop-color="#83f3cc"/><stop offset="1" stop-color="#80baff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8cc9bc" stroke-opacity=".055"/></pattern></defs>
-<rect width="1200" height="440" rx="24" fill="url(#bg)"/><rect width="1200" height="440" rx="24" fill="url(#grid)"/>
-<g fill="none" stroke="#83f3cc"><circle cx="1020" cy="220" r="142" opacity=".12"/><circle cx="1020" cy="220" r="110" opacity=".2"/><path d="M830 220h370M1020 30v380" opacity=".12"/><rect x="941" y="141" width="158" height="158" rx="32" transform="rotate(-15 1020 220)" opacity=".25"/></g>
-<text x="1020" y="242" text-anchor="middle" fill="#83f3cc" font-family="monospace" font-size="60" font-weight="700">&lt;/&gt;</text>
-<circle cx="56" cy="53" r="5" fill="#83f3cc"/><text x="72" y="59" fill="#abc1c5" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">DEVELOPER / EDUCATOR / FOUNDER</text>
-<text x="52" y="148" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Mayur Tank<tspan fill="#83f3cc">.</tspan></text>
-<text x="56" y="215" fill="#e3ecef" font-family="Arial,sans-serif" font-size="34" font-weight="600">Building software.</text>
-<text x="56" y="262" fill="#83f3cc" font-family="Arial,sans-serif" font-size="34" font-weight="600">Sharing what I learn.</text>
-<text x="56" y="310" fill="#9eafb9" font-family="Arial,sans-serif" font-size="18">Code, curiosity, and ideas that become real projects.</text>
-<path d="M56 350H1144" stroke="url(#line)" stroke-opacity=".3"/>
-<text x="56" y="393" fill="#b8c8d0" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">FOUNDER @ STARX INNOVATIONS</text>
-<text x="1144" y="393" text-anchor="end" fill="#b8c8d0" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">MUMBAI, INDIA ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Mayur Tank. Founder, Developer, Educator. Engineering ideas into digital experiences.">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111529"/><stop offset=".55" stop-color="#0b1020"/><stop offset="1" stop-color="#152039"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#a995ff"/><stop offset=".5" stop-color="#79d8f6"/><stop offset="1" stop-color="#a995ff"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8068f1" stop-opacity=".25"/><stop offset="1" stop-color="#8068f1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#a995ff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="480" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="480" rx="24" fill="url(#grid)"/>
+<circle cx="985" cy="235" r="250" fill="url(#glow)"><animate attributeName="r" values="230;280;230" dur="7s" repeatCount="indefinite"/></circle>
+<g transform="translate(985 225)">
+<g fill="none" stroke="#a995ff"><circle r="132" stroke-opacity=".2"/><circle r="100" stroke-opacity=".15"/><ellipse rx="155" ry="58" transform="rotate(-35)" stroke-opacity=".45"/><ellipse rx="155" ry="58" transform="rotate(35)" stroke="#75d9f4" stroke-opacity=".35"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/><circle cx="132" r="5" fill="#b8a9ff"/><circle cx="-132" r="3" fill="#75d9f4"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/><circle cy="100" r="4" fill="#75d9f4"/></g>
+<rect x="-55" y="-55" width="110" height="110" rx="25" fill="#161c33" stroke="#a995ff" stroke-opacity=".5"/>
+<text x="0" y="17" text-anchor="middle" font-family="Arial,sans-serif" font-size="45" font-weight="700" fill="#eeeaff">MT<tspan fill="#8cdff5">.</tspan></text>
+</g>
+<circle cx="62" cy="59" r="4" fill="#96e7e2"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="78" y="64" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#bac1de">IDEAS. ENGINEERING. IMPACT.</text>
+<text x="55" y="166" font-family="Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4" fill="#f6f4ff">Mayur Tank<tspan fill="#a995ff">.</tspan></text>
+<text x="61" y="213" font-family="Arial,sans-serif" font-size="17" letter-spacing="4" fill="#a995ff">FOUNDER · DEVELOPER · EDUCATOR</text>
+<text x="58" y="283" font-family="Arial,sans-serif" font-size="32" font-weight="600" fill="#e0e7fa">Engineering ideas into</text>
+<text x="58" y="326" font-family="Arial,sans-serif" font-size="32" font-weight="600" fill="#8cdef2">digital experiences.</text>
+<path d="M60 377H1140" stroke="#a995ff" stroke-opacity=".2"/>
+<path d="M60 377h110" stroke="url(#accent)" stroke-width="2"><animateTransform attributeName="transform" type="translate" values="0 0;970 0;0 0" dur="10s" repeatCount="indefinite"/></path>
+<text x="60" y="424" font-family="Arial,sans-serif" font-size="14" letter-spacing="1.5" fill="#b5bdd5">STARX INNOVATIONS &amp; IT SOLUTIONS</text>
+<text x="1140" y="424" text-anchor="end" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#b5bdd5">MUMBAI, INDIA</text>
 </svg>
