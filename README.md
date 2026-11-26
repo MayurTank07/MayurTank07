@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mayur Tank — Founder, Developer and Educator. Engineering ideas into digital experiences." />
+  <img src="./assets/hero-animated.svg" width="100%" alt="Mayur Tank — Founder, Developer and Educator. Engineering ideas into digital experiences." />
 </p>
 
 <p align="center">
