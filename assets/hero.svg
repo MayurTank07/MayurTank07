@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Mayur Tank — Building software. Sharing what I learn.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b23"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="line"><stop stop-color="#83f3cc"/><stop offset="1" stop-color="#80baff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8cc9bc" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/><rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="#83f3cc"><circle cx="1020" cy="220" r="142" opacity=".12"/><circle cx="1020" cy="220" r="110" opacity=".2"/><path d="M830 220h370M1020 30v380" opacity=".12"/><rect x="941" y="141" width="158" height="158" rx="32" transform="rotate(-15 1020 220)" opacity=".25"/></g>
+<text x="1020" y="242" text-anchor="middle" fill="#83f3cc" font-family="monospace" font-size="60" font-weight="700">&lt;/&gt;</text>
+<circle cx="56" cy="53" r="5" fill="#83f3cc"/><text x="72" y="59" fill="#abc1c5" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">DEVELOPER / EDUCATOR / FOUNDER</text>
+<text x="52" y="148" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Mayur Tank<tspan fill="#83f3cc">.</tspan></text>
+<text x="56" y="215" fill="#e3ecef" font-family="Arial,sans-serif" font-size="34" font-weight="600">Building software.</text>
+<text x="56" y="262" fill="#83f3cc" font-family="Arial,sans-serif" font-size="34" font-weight="600">Sharing what I learn.</text>
+<text x="56" y="310" fill="#9eafb9" font-family="Arial,sans-serif" font-size="18">Code, curiosity, and ideas that become real projects.</text>
+<path d="M56 350H1144" stroke="url(#line)" stroke-opacity=".3"/>
+<text x="56" y="393" fill="#b8c8d0" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">FOUNDER @ STARX INNOVATIONS</text>
+<text x="1144" y="393" text-anchor="end" fill="#b8c8d0" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">MUMBAI, INDIA ↗</text>
+</svg>
