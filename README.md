@@ -30,17 +30,25 @@ Through **StarX**, I bring together software development and digital marketing w
 
 ## 🧠 Tech Stack
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Full Stack Development</h3>
 <p align="center">
-  <img src="./assets/tech/C.svg" width="52" height="52" alt="C" title="C" /> &nbsp;
-  <img src="./assets/tech/CPP.svg" width="52" height="52" alt="C++" title="C++" /> &nbsp;
-  <img src="./assets/tech/CS.svg" width="52" height="52" alt="C#" title="C#" /> &nbsp;
-  <img src="./assets/tech/Java-Dark.svg" width="52" height="52" alt="Java" title="Java" /> &nbsp;
-  <img src="./assets/tech/Python-Dark.svg" width="52" height="52" alt="Python" title="Python" /> &nbsp;
-  <img src="./assets/tech/JavaScript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="./assets/tech/PHP-Dark.svg" width="52" height="52" alt="PHP" title="PHP" />
+  <img src="./assets/tech/mern.svg" width="52" height="52" alt="MERN Stack" title="MERN Stack" /> &nbsp;
+  <img src="./assets/tech/java-fullstack.svg" width="52" height="52" alt="Java Full Stack" title="Java Full Stack" />
 </p>
-<p align="center"><sub>C &nbsp; · &nbsp; C++ &nbsp; · &nbsp; C# &nbsp; · &nbsp; Java &nbsp; · &nbsp; Python &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; PHP</sub></p>
+<p align="center"><sub>MERN Stack &nbsp; · &nbsp; Java Full Stack</sub></p>
+<p align="center"><sub>MERN: MongoDB · Express.js · React · Node.js<br>Java Full Stack: Java · Spring · Spring Boot · frontend &amp; database development</sub></p>
+
+<br>
+
+<h3 align="center">AI & Data</h3>
+<p align="center">
+  <img src="./assets/tech/genai.svg" width="52" height="52" alt="Generative AI" title="Generative AI" /> &nbsp;
+  <img src="./assets/tech/genai-products.svg" width="52" height="52" alt="Gen AI Products" title="Gen AI Products" /> &nbsp;
+  <img src="./assets/tech/Python-Dark.svg" width="52" height="52" alt="Python" title="Python" /> &nbsp;
+  <img src="./assets/tech/pandas.svg" width="52" height="52" alt="pandas" title="pandas" /> &nbsp;
+  <img src="./assets/tech/numpy.svg" width="52" height="52" alt="NumPy" title="NumPy" />
+</p>
+<p align="center"><sub>Generative AI &nbsp; · &nbsp; Gen AI Products &nbsp; · &nbsp; Python &nbsp; · &nbsp; pandas &nbsp; · &nbsp; NumPy</sub></p>
 <br>
 
 <h3 align="center">Frontend & Web Interfaces</h3>
@@ -66,6 +74,14 @@ Through **StarX**, I bring together software development and digital marketing w
 <p align="center"><sub>.NET &nbsp; · &nbsp; Spring &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; Django &nbsp; · &nbsp; Node.js &nbsp; · &nbsp; Express.js</sub></p>
 <br>
 
+<h3 align="center">Android Development</h3>
+<p align="center">
+  <img src="./assets/tech/AndroidStudio-Dark.svg" width="52" height="52" alt="Android" title="Android" /> &nbsp;
+  <img src="./assets/tech/Java-Dark.svg" width="52" height="52" alt="Java" title="Java" />
+</p>
+<p align="center"><sub>Android &nbsp; · &nbsp; Java</sub></p>
+<br>
+
 <h3 align="center">Databases & Persistence</h3>
 <p align="center">
   <img src="./assets/tech/MongoDB.svg" width="52" height="52" alt="MongoDB" title="MongoDB" /> &nbsp;
@@ -77,34 +93,18 @@ Through **StarX**, I bring together software development and digital marketing w
 <p align="center"><sub>MongoDB &nbsp; · &nbsp; MySQL &nbsp; · &nbsp; SQL Server &nbsp; · &nbsp; JDBC &nbsp; · &nbsp; Hibernate</sub></p>
 <br>
 
-<h3 align="center">Android Development</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="./assets/tech/AndroidStudio-Dark.svg" width="52" height="52" alt="Android" title="Android" /> &nbsp;
-  <img src="./assets/tech/Java-Dark.svg" width="52" height="52" alt="Java" title="Java" />
-</p>
-<p align="center"><sub>Android &nbsp; · &nbsp; Java</sub></p>
-<br>
-
-<h3 align="center">AI & Data</h3>
-<p align="center">
-  <img src="./assets/tech/genai.svg" width="52" height="52" alt="Generative AI" title="Generative AI" /> &nbsp;
-  <img src="./assets/tech/genai-products.svg" width="52" height="52" alt="Gen AI Products" title="Gen AI Products" /> &nbsp;
+  <img src="./assets/tech/Java-Dark.svg" width="52" height="52" alt="Java" title="Java" /> &nbsp;
   <img src="./assets/tech/Python-Dark.svg" width="52" height="52" alt="Python" title="Python" /> &nbsp;
-  <img src="./assets/tech/pandas.svg" width="52" height="52" alt="pandas" title="pandas" /> &nbsp;
-  <img src="./assets/tech/numpy.svg" width="52" height="52" alt="NumPy" title="NumPy" />
+  <img src="./assets/tech/JavaScript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="./assets/tech/CS.svg" width="52" height="52" alt="C#" title="C#" /> &nbsp;
+  <img src="./assets/tech/PHP-Dark.svg" width="52" height="52" alt="PHP" title="PHP" /> &nbsp;
+  <img src="./assets/tech/CPP.svg" width="52" height="52" alt="C++" title="C++" /> &nbsp;
+  <img src="./assets/tech/C.svg" width="52" height="52" alt="C" title="C" />
 </p>
-<p align="center"><sub>Generative AI &nbsp; · &nbsp; Gen AI Products &nbsp; · &nbsp; Python &nbsp; · &nbsp; pandas &nbsp; · &nbsp; NumPy</sub></p>
+<p align="center"><sub>Java &nbsp; · &nbsp; Python &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; C# &nbsp; · &nbsp; PHP &nbsp; · &nbsp; C++ &nbsp; · &nbsp; C</sub></p>
 <br>
-
-<h3 align="center">Full Stack Development</h3>
-<p align="center">
-  <img src="./assets/tech/mern.svg" width="52" height="52" alt="MERN Stack" title="MERN Stack" /> &nbsp;
-  <img src="./assets/tech/java-fullstack.svg" width="52" height="52" alt="Java Full Stack" title="Java Full Stack" />
-</p>
-<p align="center"><sub>MERN Stack &nbsp; · &nbsp; Java Full Stack</sub></p>
-<br>
-
-<p align="center"><sub>MERN: MongoDB · Express.js · React · Node.js<br>Java Full Stack: Java · Spring · Spring Boot · frontend &amp; database development</sub></p>
 
 <p align="center"><b>Also in my toolkit</b> &nbsp; · &nbsp; Canva</p>
 
